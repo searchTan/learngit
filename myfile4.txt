@@ -1,0 +1,4 @@
+learn git
+hello git
+I love git
+add new word
